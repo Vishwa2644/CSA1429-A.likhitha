@@ -12,7 +12,7 @@
 %%
 
 int yywrap() {
-    return 1; // Indicates the end of input
+    return 1; 
 }
 
 int main() {
